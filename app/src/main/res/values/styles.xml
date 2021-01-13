@@ -1,0 +1,15 @@
+<resources>
+
+
+    <style name="Theme.AppCompat.Dark.NoActionBar.FullScreen" parent="@style/Theme.AppCompat.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:navigationBarColor">#2B2B2B</item>
+        <item name="android:statusBarColor">#2B2B2B</item>
+
+    </style>
+
+
+</resources>

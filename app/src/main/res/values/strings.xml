@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Countess</string>
+    <string name="counter_initial_text_vertical">00 : 00 : 00</string>
+    <string name="counter_initial_text_horizontal">00\n00\n00</string>
+</resources>
